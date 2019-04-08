@@ -1,3 +1,9 @@
 __pycache__
 *.pyc
 vqa
+resnet-14x14.h5
+data
+pretrained_model
+vocab.json
+logs
+
